@@ -9,7 +9,7 @@ const Home = () => {
             <div className="home-container">
                 <img
                     src="https://www.x-cart.com/wp-content/uploads/2019/01/ecommerce-768x278.jpg"
-                    alt=""
+                    alt="some-image-to-dispaly"
                     className="home-image"
                 />
                 <div className="home-items">
